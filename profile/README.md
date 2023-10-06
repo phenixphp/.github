@@ -1,12 +1,19 @@
-## Hi there 👋
+# Phenix framework
 
-<!--
+[![run-tests](https://github.com/phenixphp/framework/actions/workflows/run-tests.yml/badge.svg)](https://github.com/phenixphp/framework/actions/workflows/run-tests.yml)
+<a href="https://packagist.org/packages/phenixphp/framework"><img src="https://img.shields.io/packagist/v/phenixphp/phenix" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/phenixphp/framework"><img src="https://img.shields.io/packagist/l/phenixphp/phenix" alt="License"></a>
 
-**Here are some ideas to get you started:**
+Phenix is a web framework built on pure PHP, without external extensions, based on the [Amphp](https://amphp.org/)  ecosystem, which provides non-blocking operations, asynchronism and parallel code execution natively. It runs in the PHP SAPI CLI and on its own server, it is simply powerful.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Learning Phenix
+
+You can learn about Phenix in the official [documentation](https://phenix.omarbarbosa.com) and discover the power of asynchronous and concurrent applications in native PHP.
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within Phenix, please send an e-mail to Omar Barbosa via [contacto@omarbarbosa.com](mailto:contacto@omarbarbosa.com). All security vulnerabilities will be promptly addressed.
+
+## License
+
+The Phenix framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
